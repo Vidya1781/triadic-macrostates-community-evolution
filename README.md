@@ -2,7 +2,7 @@
 
 Code and results for:
 
-> Chandrika V., Nair L. S., Davis N. *Higher-order triadic structure adds no predictive signal beyond mean reversion in the evolution of network communities.* (submitted)
+> Chandrika V., Davis N. *Higher-order triadic structure adds no predictive signal beyond mean reversion in the evolution of network communities.* (submitted)
 
 Every number in the paper is produced by the two notebooks below from the raw, public SNAP files. Nothing is hard-coded.
 
