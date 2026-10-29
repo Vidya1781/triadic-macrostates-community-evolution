@@ -1,0 +1,4 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Growing,Shrinking,-0.0085,0.4249,-0.0245,0.0075,False
+Growing,Stable,0.0062,0.7158,-0.0125,0.0249,False
+Shrinking,Stable,0.0147,0.1504,-0.0038,0.0332,False
