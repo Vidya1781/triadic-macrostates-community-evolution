@@ -1,0 +1,14 @@
+# Versions used for the reported run (Google Colab, Python 3.13, CPU runtime)
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+networkx==3.7
+python-igraph
+leidenalg
+hmmlearn
+lifelines
+shap==0.54.1
+torch
+matplotlib
